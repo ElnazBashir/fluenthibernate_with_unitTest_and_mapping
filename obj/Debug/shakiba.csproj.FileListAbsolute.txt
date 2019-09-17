@@ -1,0 +1,26 @@
+C:\Users\Cormac\Documents\Visual Studio 2013\Projects\Examples\shakiba\shakiba\bin\Debug\shakiba.exe.config
+C:\Users\Cormac\Documents\Visual Studio 2013\Projects\Examples\shakiba\shakiba\obj\Debug\shakiba.csprojResolveAssemblyReference.cache
+C:\Users\Cormac\Documents\Visual Studio 2013\Projects\Examples\shakiba\shakiba\bin\Debug\shakiba.exe
+C:\Users\Cormac\Documents\Visual Studio 2013\Projects\Examples\shakiba\shakiba\bin\Debug\shakiba.pdb
+C:\Users\Cormac\Documents\Visual Studio 2013\Projects\Examples\shakiba\shakiba\bin\Debug\FluentNHibernate.dll
+C:\Users\Cormac\Documents\Visual Studio 2013\Projects\Examples\shakiba\shakiba\bin\Debug\Iesi.Collections.dll
+C:\Users\Cormac\Documents\Visual Studio 2013\Projects\Examples\shakiba\shakiba\bin\Debug\NHibernate.dll
+C:\Users\Cormac\Documents\Visual Studio 2013\Projects\Examples\shakiba\shakiba\bin\Debug\FluentNHibernate.pdb
+C:\Users\Cormac\Documents\Visual Studio 2013\Projects\Examples\shakiba\shakiba\bin\Debug\FluentNHibernate.xml
+C:\Users\Cormac\Documents\Visual Studio 2013\Projects\Examples\shakiba\shakiba\bin\Debug\Iesi.Collections.xml
+C:\Users\Cormac\Documents\Visual Studio 2013\Projects\Examples\shakiba\shakiba\bin\Debug\NHibernate.xml
+C:\Users\Cormac\Documents\Visual Studio 2013\Projects\Examples\shakiba\shakiba\obj\Debug\shakiba.exe
+C:\Users\Cormac\Documents\Visual Studio 2013\Projects\Examples\shakiba\shakiba\obj\Debug\shakiba.pdb
+C:\Users\e.bashir\Downloads\NHibernate_Automapping--master 3\NHibernate_Automapping--master\shakiba\shakiba\bin\Debug\shakiba.exe.config
+C:\Users\e.bashir\Downloads\NHibernate_Automapping--master 3\NHibernate_Automapping--master\shakiba\shakiba\obj\Debug\shakiba.pdb
+C:\Users\e.bashir\Downloads\NHibernate_Automapping--master 3\NHibernate_Automapping--master\shakiba\shakiba\bin\Debug\shakiba.exe
+C:\Users\e.bashir\Downloads\NHibernate_Automapping--master 3\NHibernate_Automapping--master\shakiba\shakiba\bin\Debug\shakiba.pdb
+C:\Users\e.bashir\Downloads\NHibernate_Automapping--master 3\NHibernate_Automapping--master\shakiba\shakiba\bin\Debug\FluentNHibernate.dll
+C:\Users\e.bashir\Downloads\NHibernate_Automapping--master 3\NHibernate_Automapping--master\shakiba\shakiba\bin\Debug\Iesi.Collections.dll
+C:\Users\e.bashir\Downloads\NHibernate_Automapping--master 3\NHibernate_Automapping--master\shakiba\shakiba\bin\Debug\NHibernate.dll
+C:\Users\e.bashir\Downloads\NHibernate_Automapping--master 3\NHibernate_Automapping--master\shakiba\shakiba\bin\Debug\FluentNHibernate.pdb
+C:\Users\e.bashir\Downloads\NHibernate_Automapping--master 3\NHibernate_Automapping--master\shakiba\shakiba\bin\Debug\FluentNHibernate.xml
+C:\Users\e.bashir\Downloads\NHibernate_Automapping--master 3\NHibernate_Automapping--master\shakiba\shakiba\bin\Debug\Iesi.Collections.xml
+C:\Users\e.bashir\Downloads\NHibernate_Automapping--master 3\NHibernate_Automapping--master\shakiba\shakiba\bin\Debug\NHibernate.xml
+C:\Users\e.bashir\Downloads\NHibernate_Automapping--master 3\NHibernate_Automapping--master\shakiba\shakiba\obj\Debug\shakiba.csprojResolveAssemblyReference.cache
+C:\Users\e.bashir\Downloads\NHibernate_Automapping--master 3\NHibernate_Automapping--master\shakiba\shakiba\obj\Debug\shakiba.exe
